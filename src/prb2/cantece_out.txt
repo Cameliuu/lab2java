@@ -1,0 +1,56 @@
+ Hai Otelu! 4 2 0.6145257733651708 
+ Hai Otelu! 4 2 0.38396268488824015 
+ EU DE MIC COPIL MI-AM DORIT SA AJUNG FOTBALIST 15 9 0.0949234615761938 
+ Am muncit din greu sa ajung, sa fiu pe teren artist 16 11 0.7044042535006438 
+ Am muncit din greu, martor mi-e Dumnezeu 13 7 0.16219462591436618 
+ CA SA FAC MULTI BANI, AM PIERDUT DIN VIATA ANI 17 10 0.07640348452770307 
+ M-am nascut cu noroc, la echipa campioana joc 16 8 0.48299695144820365 
+ Eu de mic copil mi-am dorit sa ajung fotbalist 15 9 0.7735047902013311 
+ Am muncit din greu sa ajung, sa fiu pe teren artist 16 11 0.35443628037773134 
+ Am muncit din greu, martor mi-e Dumnezeu 13 7 0.3644843707013934 
+ Ca sa fac multi bani, am pierdut din viata ani 17 10 0.6333832248957629 
+ M-am nascut cu noroc, la echipa campioana joc 16 8 0.16023984442593064 
+ Da, da, da, Otelu e viata mea 11 7 0.624720367947794 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.8048668515213957 
+ Da, da, da, Otelu e viata mea 11 7 0.5726169375508007 *
+ CEA MAI TARE DIN CARPATI ESTE OTELU GALATI 17 8 0.02839696803297742 
+ Da, da, da, Otelu e viata mеa 10 7 0.8215996503418644 
+ CEA MAI TARE DIN CARPATI ESTЕ OTELU GALATI 16 8 2.735768983018749E-4 
+ Da, da, da, Otelu e viata mea 11 7 0.2892657484190436 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.3030007080107362 
+ Dorinel Munteanu a venit sa ne invete meserie 19 8 0.5428176359824916 
+ A muncit din greu si acum Otelu-i pe primul loc, se stie 18 12 0.6839215657312716 
+ Hai sa bem, sa bem ca doar campioni suntem 15 9 0.935664585268258 
+ Steaua Bucuresti, de Galati sa te feresti 17 7 0.9798132239984594 
+ M-am nascut cu noroc, la echipa campioana joc 16 8 0.14223823719585615 
+ Dorinel Munteanu a venit sa ne invete meserie 19 8 0.874581422570709 
+ A muncit din greu si acum Otelu-i pe primul loc, se stie 18 12 0.24862986699381273 
+ HAI SA BEM, SA BEM CA DOAR CAMPIONI SUNTEM 15 9 0.01609676106087543 
+ Steaua Bucuresti, de Galati sa te feresti 17 7 0.799032318200999 
+ M-am nascut cu noroc, la echipa campioana joc 16 8 0.9460435943305934 
+ Da, da, da, Otelu e viata mea 11 7 0.8642328536583539 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.889093814170116 
+ DA, DA, DA, OTELU E VIATA MEA 11 7 0.05515732725831923 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.6979358116247798 
+ Da, da, da, Otelu e viata mea 11 7 0.23393808110897463 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.792470834535225 
+ Da, da, da, Otelu e viata mea 11 7 0.5250180067550426 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.2892506357331026 
+ De cand Marius Stan a venit presedinte la Galati 17 9 0.6628893275869372 
+ A adus la club jucatori muncitori si talentati 17 8 0.3560094850137828 
+ MULT A SUFERIT MARIUS STAN PENTRU ECHIPA 14 7 0.06029802989698896 
+ Dar acum bucuros va merge in Liga 12 7 0.20160558534242146 
+ Ne vedem, fanilor chiar in Liga Campionilor! 16 7 0.585852246300085 
+ De cand Marius Stan a venit presedinte la Galati 17 9 0.7201191200054397 
+ A adus la club jucatori muncitori si talentati 17 8 0.5133028766373381 
+ Mult a suferit Marius Stan pentru echipa 14 7 0.23617289713020362 
+ Dar acum bucuros va merge in Liga 12 7 0.5722991589859161 
+ Ne vedem, fanilor chiar in Liga Campionilor! 16 7 0.7742831390914392 
+ Da, da, da, Otelu e viata mea 11 7 0.38375747702700735 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.9163794500977712 
+ Da, da, da, Otelu e viata mea 11 7 0.709348152001498 *
+ Cea mai tare din Carpati este Otelu Galati 17 8 0.3773404859742231 
+ DA, DA, DA, OTELU E VIATA MEA 11 7 0.05685211214975239 *
+ Cand patronii v-or canta Otelu v-a castiga 14 7 0.5678919457876627 
+ Da, da, da, Otelu e viata mea 11 7 0.9497452653129189 *
+ Cand patronii v-or canta Otelu v-a castiga 14 7 0.41754348901584204 
