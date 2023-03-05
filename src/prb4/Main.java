@@ -8,19 +8,36 @@ import java.util.regex.Pattern;
 public class Main {
     private static Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
-        String control = "279146358279";
         List<Persoana> persoane= new ArrayList<Persoana>();
-        Pattern pattern = Pattern.compile("{1256}[0-9]*");
         System.out.println("Introduceti nr de pers: ");
         int nr = scan.nextInt();
+        scan.nextLine();
         while(nr > 0)
         {
             Persoana p = new Persoana();
-            System.out.println("Introduceti varsta: ");
-            p.set_varsta(scan.nextInt());
+            System.out.println("Introduceti numele: ");
+            p.set_nume(scan.nextLine());
             System.out.println("Introduceti CNP: ");
-            p.set_cnp(scan.nextLine());
+            String cnp = scan.nextLine();
+            while(!p.isValidCnp(cnp))
+            {
+                System.out.println("CNP INVALID");
+                System.out.println("Introduceti CNP: ");
+                 cnp = scan.nextLine();
+            }
+            p.set_cnp(cnp);
+            p.getBirthdateFromCNP(cnp);
+            persoane.add(p);
+            nr--;
 
+
+
+        }
+        for(Persoana p: persoane)
+        {
+            System.out.println("************************************************************");
+            System.out.println(p);
+            System.out.println("************************************************************");
         }
     }
 }
